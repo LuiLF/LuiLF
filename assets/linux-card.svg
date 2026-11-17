@@ -4,4 +4,12 @@
   <g transform="translate(25 24) scale(1.7)" fill="none" stroke="#65C8C1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="7" rx="2"/><rect x="2" y="14" width="20" height="7" rx="2"/><path d="M6 6.5h.01M6 17.5h.01M10 6.5h.01M10 17.5h.01"/></g>
   <text x="25" y="112" fill="#D9E6ED" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600">Linux &amp; Infraestrutura</text>
   <text x="25" y="139" fill="#9CB5C3" font-family="Arial, Helvetica, sans-serif" font-size="13">Sistemas, serviços e administração</text>
+  <path
+  d="M327 33 L339 21 M329 21 H339 V31"
+  fill="none"
+  stroke="#65C8C1"
+  stroke-width="1.5"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+/>
 </svg>
