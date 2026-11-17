@@ -8,4 +8,4 @@ Em construção. Os conteúdos serão adicionados conforme os exercícios e proj
 
 ---
 
-[← Voltar ao perfil](../README.md)
+[← Voltar ao perfil](https://github.com/LuiLF)
