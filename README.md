@@ -1,37 +1,48 @@
-<div align="center">
 
-# Olá, eu sou o Lui.
+<p align="center">
+  <img src="assets/banner.svg" alt="Lui — Infraestrutura de TI, Redes e Cibersegurança" width="100%">
+</p>
 
-**Infraestrutura de TI · Redes · Cibersegurança**
-
-Formado em Análise e Desenvolvimento de Sistemas, com foco em construir uma carreira em suporte, infraestrutura e segurança da informação.
-
-Aqui documento laboratórios, investigações e projetos práticos — com atenção ao processo, às evidências e ao que aprendi em cada etapa.
-
-</div>
-
----
+<br>
 
 ### Sobre mim
 
-Tenho formação em **Análise e Desenvolvimento de Sistemas** e estudos em segurança por meio do **Google Cybersecurity Professional Certificate**, **Qualys** e **TryHackMe SOC Level 1**.
+Sou formado em **Análise e Desenvolvimento de Sistemas**, com foco em construir uma carreira em **Infraestrutura de TI, Redes e Cibersegurança**.
 
-Meu objetivo é transformar esses conhecimentos em prática verificável, especialmente em **Linux, redes, troubleshooting e operações de segurança**.
+Tenho formação complementar pelo **Google Cybersecurity Professional Certificate**, além de estudos e laboratórios práticos com **Linux, redes, análise de vulnerabilidades e operações de segurança**.
 
-### Áreas de estudo
+Utilizo este espaço para documentar meu aprendizado, desenvolver projetos e registrar experiências práticas de forma organizada.
 
-| Sistemas e infraestrutura | Redes | Segurança |
-| --- | --- | --- |
-| Linux e Windows | TCP/IP, DNS e DHCP | Análise de logs |
-| Usuários e permissões | Diagnóstico de conectividade | Monitoramento e investigação |
-| Serviços e automação | Wireshark | Fundamentos de SOC |
+### Áreas técnicas
+
+<table>
+  <tr>
+    <td width="33%">
+      <a href="./linux/README.md">
+        <img src="assets/linux-card.svg" alt="Linux e Infraestrutura" width="100%">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="./networking/README.md">
+        <img src="assets/networking-card.svg" alt="Redes" width="100%">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="./cybersecurity/README.md">
+        <img src="assets/cybersecurity-card.svg" alt="Cibersegurança" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Projetos e laboratórios
 
-Estou organizando projetos práticos com documentação técnica, testes e evidências. Os trabalhos serão adicionados aqui conforme forem concluídos.
+Atualmente, estou organizando meus estudos e projetos práticos, começando por **Linux e administração de sistemas**.
 
-**Primeira etapa:** revisão de Linux e prática com OverTheWire Bandit.
+Os projetos serão documentados com objetivos, procedimentos, evidências e resultados.
 
 ---
 
-<sub>Aprender · Aplicar · Documentar</sub>
+<p align="center">
+  <sub>Aprender · Aplicar · Documentar</sub>
+</p>
