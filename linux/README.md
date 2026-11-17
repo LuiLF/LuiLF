@@ -1,4 +1,3 @@
-
 # Linux & Infraestrutura
 
 Estudos e laboratórios voltados à administração de sistemas Linux, uso do terminal, gerenciamento de arquivos, permissões e serviços.
