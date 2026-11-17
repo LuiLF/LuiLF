@@ -1,9 +1,6 @@
-
 <p align="center">
   <img src="assets/banner.svg" alt="Lui — Infraestrutura de TI, Redes e Cibersegurança" width="100%">
 </p>
-
-<br>
 
 ### Sobre mim
 
@@ -14,7 +11,6 @@ Tenho formação complementar pelo **Google Cybersecurity Professional Certifica
 Utilizo este espaço para documentar meu aprendizado, desenvolver projetos e registrar experiências práticas de forma organizada.
 
 ### Áreas técnicas
-
 
 <p align="left">
   <a href="./linux/README.md">
@@ -28,7 +24,6 @@ Utilizo este espaço para documentar meu aprendizado, desenvolver projetos e reg
   </a>
 </p>
 
-
 ### Projetos e laboratórios
 
 Atualmente, estou organizando meus estudos e projetos práticos, começando por **Linux e administração de sistemas**.
@@ -40,3 +35,9 @@ Os projetos serão documentados com objetivos, procedimentos, evidências e resu
 <p align="center">
   <sub>Aprender · Aplicar · Documentar</sub>
 </p>
+
+<!-- Quando quiser adicionar o contato, substitua SEU-USUARIO pelo endereço real do LinkedIn:
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/">LinkedIn</a>
+</p>
+-->
