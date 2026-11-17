@@ -4,11 +4,11 @@
 
 ### Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, com foco em construir uma carreira em **Infraestrutura de TI, Redes e Cibersegurança**.
+Sou formado em **Análise e Desenvolvimento de Sistemas**, com formação complementar pelo **Google Cybersecurity Professional Certificate** e estudos em **análise de vulnerabilidades e operações de segurança**.
 
-Tenho formação complementar pelo **Google Cybersecurity Professional Certificate**, além de estudos e laboratórios práticos com **Linux, redes, análise de vulnerabilidades e operações de segurança**.
+Aprofundo meus conhecimentos por meio de laboratórios e exercícios práticos com **Linux, redes e ferramentas de segurança**, buscando compreender tanto o funcionamento dos sistemas quanto sua administração e proteção.
 
-Utilizo este espaço para documentar meu aprendizado, desenvolver projetos e registrar experiências práticas de forma organizada.
+Neste GitHub, documento **procedimentos, testes, resultados e aprendizados**, construindo um registro organizado da minha evolução técnica.
 
 ### Áreas técnicas
 
@@ -33,11 +33,14 @@ Os projetos serão documentados com objetivos, procedimentos, evidências e resu
 ---
 
 <p align="center">
-  <sub>Aprender · Aplicar · Documentar</sub>
+  <sub>Um espaço para transformar estudo em prática e prática em documentação.</sub>
 </p>
 
-<!-- Quando quiser adicionar o contato, substitua SEU-USUARIO pelo endereço real do LinkedIn:
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/luilf/">
+    <img src="assets/linkedin-link.svg" alt="LinkedIn" height="28">
+  </a>
 </p>
--->
+
+
