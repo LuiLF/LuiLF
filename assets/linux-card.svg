@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="320" height="140"
+     viewBox="0 0 320 140">
+
+  <!-- Fundo do cartão -->
+  <rect width="320" height="140"
+        rx="12" fill="#193B52"/>
+
+  <!-- Ícone minimalista -->
+  <rect x="24" y="25" width="34" height="28"
+        rx="4" fill="none"
+        stroke="#65C8C1" stroke-width="2"/>
+
+  <!-- Título -->
+  <text x="24" y="85"
+        fill="#D9E6ED"
+        font-size="19"
+        font-family="Arial">
+    Linux &amp; Infraestrutura
+  </text>
+
+  <!-- Descrição -->
+  <text x="24" y="108"
+        fill="#9CB5C3"
+        font-size="12"
+        font-family="Arial">
+    Sistemas, serviços e administração
+  </text>
+
+</svg>
