@@ -38,7 +38,10 @@ Os projetos serão documentados com objetivos, procedimentos, evidências e resu
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luilf/">
-    <img src="assets/linkedin-dark.svg#gh-dark-mode-only" alt="LinkedIn" width="150">
-    <img src="assets/linkedin-light.svg#gh-light-mode-only" alt="LinkedIn" width="150">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/linkedin-light.svg">
+      <img src="assets/linkedin-light.svg" alt="LinkedIn" width="150">
+    </picture>
   </a>
 </p>
