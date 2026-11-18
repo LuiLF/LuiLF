@@ -36,11 +36,9 @@ Os projetos serão documentados com objetivos, procedimentos, evidências e resu
   <sub>Um espaço para transformar estudo em prática e prática em documentação.</sub>
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/luilf/">
-    <img src="assets/linkedin-link.svg" alt="LinkedIn" height="28">
+    <img src="assets/linkedin-dark.svg#gh-dark-mode-only" alt="LinkedIn" width="150">
+    <img src="assets/linkedin-light.svg#gh-light-mode-only" alt="LinkedIn" width="150">
   </a>
 </p>
-
-
