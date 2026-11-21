@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="66" viewBox="0 0 640 66" role="img" aria-label="02 // CONNECTED PROJECTS"><rect width="100%" height="100%" fill="none"/><rect x="0" y="12" width="4" height="39" fill="#C94853"/><text x="19" y="43" font-family="Consolas, Menlo, monospace" font-size="32" font-weight="bold" letter-spacing="1.1" fill="#D6535E">02 // CONNECTED PROJECTS</text><path d="M19 56 H630" stroke="#702A34" stroke-width="1"/></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="66"
+     viewBox="0 0 1000 66"
+     role="img"
+     aria-label="01 // CONNECTED PROJECTS">
+
+  <rect x="0" y="12" width="4" height="39" fill="#C94853"/>
+
+  <text x="19" y="43"
+        font-family="Consolas, Menlo, monospace"
+        font-size="32"
+        font-weight="bold"
+        letter-spacing="1.1"
+        fill="#D6535E">
+    01 // CONNECTED PROJECTS
+  </text>
+
+  <path d="M19 56 H1000"
+        stroke="#702A34"
+        stroke-width="1"/>
+
+</svg>
