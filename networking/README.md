@@ -14,7 +14,7 @@ Estudos e laboratórios sobre redes de computadores, protocolos de comunicação
 
 ---
 
-<img src="../assets/networking/connected-projects.svg" alt="01 // CONNECTED PROJECTS" width="390">
+<img src="../assets/networking/connected-projects.svg" alt="01 // CONNECTED PROJECTS" width="100%">
 
 ---
 
