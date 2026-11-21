@@ -1,4 +1,4 @@
-<img src="../assets/networking/wired-banner.jpg" alt="The Wired — Serial Experiments Lain" width="100%">
+<img src="../assets/networking/wired-banner.png" alt="The Wired — Serial Experiments Lain" width="100%">
 <br>
 
 <img src="../assets/networking/protocol-07.svg?v=2" alt="PROTOCOL 07 // CONNECTION ESTABLISHED" width="100%">
