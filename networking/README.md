@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="../assets/networking/protocol-07.svg" alt="PROTOCOL 07 // CONNECTION ESTABLISHED" width="100%">
+<img src="../assets/networking/protocol-07.svg?v=2" alt="PROTOCOL 07 // CONNECTION ESTABLISHED" width="100%">
 
 ---
 
@@ -14,7 +14,7 @@ Estudos e laboratórios sobre redes de computadores, protocolos de comunicação
 
 ---
 
-<img src="../assets/networking/connected-projects.svg" alt="01 // CONNECTED PROJECTS" width="100%">
+<img src="../assets/networking/connected-projects.svg?v=2" alt="01 // CONNECTED PROJECTS" width="100%">
 
 ---
 
