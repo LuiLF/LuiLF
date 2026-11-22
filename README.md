@@ -1,5 +1,9 @@
+
 <p align="center">
-  <img src="assets/banner-wired.svg" alt="Lui — Infraestrutura de TI, Redes e Cibersegurança" width="100%">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/banner-wired-mobile.svg">
+    <img src="assets/banner-wired.svg" alt="Lui — Infraestrutura de TI, Redes e Cibersegurança" width="100%">
+  </picture>
 </p>
 
 ### Sobre mim
