@@ -17,9 +17,9 @@ Neste GitHub, documento **procedimentos, testes, resultados e aprendizados**, co
 ### Áreas técnicas
 
 <p align="left">
-  <a href="./linux/README.md"><img src="assets/linux-card.svg?v=2" alt="Linux e Infraestrutura" width="300" align="top"></a>&nbsp;&nbsp;
-  <a href="./networking/README.md"><img src="assets/networking-card.svg" alt="Redes" width="300" align="top"></a>&nbsp;&nbsp;
-  <a href="./cybersecurity/README.md"><img src="assets/cybersecurity-card.svg" alt="Cibersegurança" width="300" align="top"></a>
+  <a href="./linux/README.md"><img src="assets/linux-card.svg?v=2" alt="Linux e Infraestrutura" width="31%" align="top"></a>&nbsp;
+  <a href="./networking/README.md"><img src="assets/networking-card.svg" alt="Redes" width="31%" align="top"></a>&nbsp;
+  <a href="./cybersecurity/README.md"><img src="assets/cybersecurity-card.svg" alt="Cibersegurança" width="31%" align="top"></a>
 </p>
 
 ### Projetos e laboratórios
