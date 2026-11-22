@@ -1,12 +1,12 @@
 
 <svg xmlns="http://www.w3.org/2000/svg"
      width="480"
-     height="44"
-     viewBox="0 0 480 44"
+     height="36"
+     viewBox="0 0 480 36"
      role="img"
      aria-label="01 // CONNECTED PROJECTS">
 
-  <rect x="0" y="2" width="4" height="39" fill="#9E0000"/>
+  <rect x="0" y="2" width="4" height="32" fill="#9E0000"/>
 
   <text x="19" y="33"
         font-family="Consolas, Menlo, monospace"
