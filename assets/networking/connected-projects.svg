@@ -1,12 +1,14 @@
 
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1000" height="66" viewBox="0 0 1000 66"
+     width="480"
+     height="44"
+     viewBox="0 0 480 44"
      role="img"
      aria-label="01 // CONNECTED PROJECTS">
 
-  <rect x="0" y="12" width="4" height="39" fill="#9E0000"/>
+  <rect x="0" y="2" width="4" height="39" fill="#9E0000"/>
 
-  <text x="19" y="43"
+  <text x="19" y="33"
         font-family="Consolas, Menlo, monospace"
         font-size="28"
         font-weight="bold"
