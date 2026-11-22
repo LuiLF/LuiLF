@@ -1,8 +1,8 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/banner-wired-mobile.svg">
-    <img src="assets/banner-wired.svg" alt="Lui — Infraestrutura de TI, Redes e Cibersegurança" width="100%">
+    <source media="(max-width: 600px)" srcset="assets/profile/banner-wired-mobile.svg">
+    <img src="assets/profile/banner-wired.svg" alt="Lui — Infraestrutura de TI, Redes e Cibersegurança" width="100%">
   </picture>
 </p>
 
@@ -17,9 +17,9 @@ Neste GitHub, documento **procedimentos, testes, resultados e aprendizados**, co
 ### Áreas técnicas
 
 <p align="left">
-  <a href="./linux/README.md"><img src="assets/linux-card.svg?v=2" alt="Linux e Infraestrutura" width="31%" align="top"></a>&nbsp;
-  <a href="./networking/README.md"><img src="assets/networking-card.svg" alt="Redes" width="31%" align="top"></a>&nbsp;
-  <a href="./cybersecurity/README.md"><img src="assets/cybersecurity-card.svg" alt="Cibersegurança" width="31%" align="top"></a>
+  <a href="./linux/README.md"><img src="assets/profile/linux-card.svg?v=2" alt="Linux e Infraestrutura" width="31%" align="top"></a>&nbsp;
+  <a href="./networking/README.md"><img src="assets/profile/networking-card.svg" alt="Redes" width="31%" align="top"></a>&nbsp;
+  <a href="./cybersecurity/README.md"><img src="assets/profile/cybersecurity-card.svg" alt="Cibersegurança" width="31%" align="top"></a>
 </p>
 
 ### Projetos e laboratórios
@@ -37,9 +37,9 @@ Os projetos serão documentados com objetivos, procedimentos, evidências e resu
 <p align="center">
   <a href="https://www.linkedin.com/in/luilf/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/linkedin-light.svg">
-      <img src="assets/linkedin-light.svg" alt="LinkedIn" width="150">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/profile/linkedin-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/profile/linkedin-light.svg">
+      <img src="assets/profile/linkedin-light.svg" alt="LinkedIn" width="150">
     </picture>
   </a>
 </p>
