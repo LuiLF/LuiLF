@@ -14,7 +14,7 @@ Estudos e laboratórios sobre redes de computadores, protocolos de comunicação
 ---
 
 <div align="left">
-  <img src="../assets/networking/protocol-07.svg?v=5" alt="PROTOCOL 07 // CONNECTION ESTABLISHED"><img src="../assets/networking/red-line.svg" alt="" width="100%">
+  <img src="../assets/networking/connected-projects.svg?v=5" alt="01 // CONNECTED PROJECTS"><img src="../assets/networking/red-line.svg" alt="" width="100%">
 </div>
 
 ### [Riot Offline Toggle](https://github.com/LuiLF/riot-offline-toggle)
