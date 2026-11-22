@@ -22,6 +22,20 @@
   <text x="40" y="123" fill="#D9E6ED" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700">Lui.</text>
   <text x="40" y="158" fill="#AFC6D2" font-family="Arial, Helvetica, sans-serif" font-size="17">Infraestrutura de TI · Redes · Cibersegurança</text>
   <path d="M40 189H538" stroke="url(#signal)" stroke-width="1"/>
-  <text x="40" y="215" fill="#65C8C1" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.6">LEARNING THROUGH PRACTICE_</text>
+
+<text x="40" y="215"
+      fill="#65C8C1"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="11"
+      letter-spacing="1.6">
+  LEARNING THROUGH PRACTICE<tspan>_
+    <animate attributeName="opacity"
+             values="1;1;0;0"
+             keyTimes="0;0.49;0.5;1"
+             dur="1.2s"
+             repeatCount="indefinite"/>
+  </tspan>
+</text>
+  
   <text x="916" y="215" text-anchor="end" fill="#65C8C1" opacity=".45" font-family="monospace" font-size="10">WIRED_01</text>
 </svg>
