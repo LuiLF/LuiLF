@@ -1,4 +1,13 @@
-<img src="../assets/networking/wired-banner.png" alt="The Wired — Serial Experiments Lain" width="100%">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)"
+            srcset="../assets/networking/wired-banner-mobile.png">
+    <img src="../assets/networking/wired-banner.png"
+         alt="Wired — Networking"
+         width="100%">
+  </picture>
+</p>
+
 <br>
 
 <div align="left">
